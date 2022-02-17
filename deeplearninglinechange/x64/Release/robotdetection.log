@@ -1,0 +1,47 @@
+﻿  robotdetectioncpp.cpp
+D:\Users\Demo\robotdetection\robotdetectioncpp.cpp(17,36): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+D:\Users\Demo\robotdetection\robotdetectioncpp.cpp(90,57): warning C4244: '인수': '_Tp'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\Users\Demo\robotdetection\robotdetectioncpp.cpp(90,50): warning C4244: '인수': '_Tp'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\Users\Demo\robotdetection\robotdetectioncpp.cpp(90,36): warning C4244: '인수': '_Tp'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\Users\Demo\robotdetection\robotdetectioncpp.cpp(90,21): warning C4244: '인수': '_Tp'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\Users\Demo\robotdetection\robotdetectioncpp.cpp(105,73): warning C4305: '인수': 'double'에서 'const float'(으)로 잘립니다.
+D:\Users\Demo\robotdetection\robotdetectioncpp.cpp(130,23): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Users\Demo\robotdetection\robotdetectioncpp.cpp(131,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  1 of 513 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  robotdetection.vcxproj -> D:\Users\Demo\x64\Release\robotdetection.exe
